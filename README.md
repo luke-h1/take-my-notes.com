@@ -5,20 +5,20 @@ Take My notes. full stack, open source note taking app
 ## Tech Stack: 
 
 ### Frontend 
-* react
+* React
 * Next
 * Typescript
 * Chakra UI 
 * Emotion css 
 * polished
 * react-icons
-* vercel
+* Vercel
 
 
 ### backend 
 * MongoDB
 * Helmet 
-* colors
+* Colors
 * json web tokens 
 * mongoose 
 * Node 
