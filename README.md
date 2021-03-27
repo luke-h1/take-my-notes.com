@@ -1,6 +1,4 @@
-# [take-my-notes.com](https://take-my-notes.com)
-
-Take My notes. full stack, open source note taking app
+Take My notes. full stack, note taking site
 
 ## Tech Stack: 
 
@@ -10,8 +8,8 @@ Take My notes. full stack, open source note taking app
 * Typescript
 * Chakra UI 
 * Emotion css 
-* polished
-* react-icons
+* Polished
+* React-icons
 * Vercel
 
 
@@ -19,8 +17,8 @@ Take My notes. full stack, open source note taking app
 * MongoDB
 * Helmet 
 * Colors
-* json web tokens 
-* mongoose 
+* JWT
+* Mongoose 
 * Node 
 * Express 
 * Heroku 
